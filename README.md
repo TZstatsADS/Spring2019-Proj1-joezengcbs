@@ -1,18 +1,13 @@
-# Applied Data Science @ Columbia
+﻿# Applied Data Science @ Columbia
 ## Spring 2019
-## Project 1: What made you happy today?
-
-![image](figs/title.jpeg)
-
-### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+## Project 1: A Close Look at the Categories of Happy Moments
 
 Term: Spring 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: A Close Look at the Categories of Happy Moments
++ This project is conducted by Yiyang Zeng
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: [a short summary] For this project, I would like to explore different categories of happy moments, what might be the main drivers for these categories and how are categories different from each other. Some of the techniques in this project that I have used include sentiment analysis and topic analysis.The source of the dataset comes from a corpus of 100,000 crowd-sourced happy moments via Amazon's Mechanical Turk. Detailed information about the dataset is on https://rit-public.github.io/HappyDB/.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
